@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer | Generative AI & LLMs Enthusiast</h3>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=600&lines=AI+Engineer+%7C+Machine+Learning+Engineer;Generative+AI+%7C+LLMs+%7C+Agentic+AI;Deep+Learning+%7C+NLP+%7CMLOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=600&lines=AI+Engineer+%7C+Machine+Learning+Engineer;Generative+AI+%7C+LLMs+%7C+Agentic+AI;Deep+Learning+%7C+NLP+%7C+MLOps" alt="Typing SVG" />
 </p>
 
 ---
