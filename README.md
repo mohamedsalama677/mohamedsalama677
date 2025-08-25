@@ -1,106 +1,103 @@
 <h1 align="center">Hi 👋, I'm Mohamed Salama</h1>
-<h3 align="center">AI Engineer | Trainee @<a href="https://iti.gov.eg/home" target="_blank">ITI</a></h3>
+<h3 align="center">AI Engineer | Generative AI & LLMs Enthusiast</h3>
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=AI+%7C+Machine+Learning;NLP+%7C+Deep+Learning+%7C+Big+Data;Computer+Vision+%7C+Transformers+%7C;Problem+Solving+%7C+SQL" alt="Typing SVG" />
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=600&lines=AI+Engineer+%7C+Machine+Learning+Engineer;Generative+AI+%7C+LLMs+%7C+Agentic+AI;Deep+Learning+%7C+NLP+%7CMLOps" alt="Typing SVG" />
 </p>
 
 ---
-
-## 🌐 Connect with Me
+## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-salama-a9947b206/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-salama-a9947b206/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mohamedsalama152019@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  
+  <a href="https://github.com/mohamedsalama677" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.kaggle.com/mohamedsalama152019" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
 </p>
 
----
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Computer Vision Animation" width="600" />
-</p>
 
-## 🌟 About Me
 
-- 🎓 **Bachelor's in Artificial Intelligence**  
-  **Kafr-El-Sheikh University** (2020 - 2024)  
-  **GPA:** 3.6  
+## 🌟 About Me  
 
-- <img src="https://github.com/mohamedsalama677/mohamedsalama677/blob/main/iti-logo.png" alt="ITI Logo" width="15" />  **[Information Technology Institute (ITI)](https://iti.gov.eg/home)**   
-  **Trainee @ ITI Professional 9-Month Diploma in Artificial Intelligence** (Intake 45)
+I am an **AI Engineer** with expertise in Machine Learning, Deep Learning, NLP, Generative AI, and LLMs.
+Graduated from the 9-month AI/ML Diploma at ITI.
+Eager to contribute to innovative, impactful projects in a forward-thinking team.
+
+- 🎓 **Education**:  
+  - 9-Month **AI & Machine Learning Diploma** – [ITI](https://iti.gov.eg/home) (Intake 45)  
+  - **B.Sc. in Artificial Intelligence** – Kafr El-Sheikh University (GPA: 3.65)
     
-  
+- **Internships**:
+  - **Computer Vision Intern** @ ITI — Implemented advanced CV models and practical applications.  
+  - **Machine Learning Intern** @ Mentorness — Built predictive models for healthcare and finance.
 
-- 💡 **Passionate About:**  
-  - Machine Learning, Deep Learning, and NLP  
-  - Building intelligent solutions for real-world problems  
-  - Exploring cutting-edge AI tools and frameworks  
+---
+## 💼 Experience  
 
-- 🌟 **Key Strengths:**  
-  - Analytical and problem-solving mindset  
-  - Strong communication and teamwork skills  
-  - Dedicated to lifelong learning and self-improvement
-  - Leadership: Guiding teams to achieve shared goals.  
+- **LLM Developer – G2i (Remote) | (Sep 2024 – Mar 2025)**  
+  Worked on refining **LLM outputs, prompt engineering, and evaluation** across diverse real-world use cases.  
 
 ---
 
-## 🛠️ Technical Skills
-
-- **Languages:**  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-- **Frameworks & Tools:**  
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-
-- **Specializations:**  
-  - Machine Learning & Deep Learning  
-  - NLP & Computer Vision  
-  - Reinforcement Learning  
-  - Big Data & Cloud Computing  
+- 🔥 **Passionate About**:  
+  - Generative AI & LLMs  
+  - Advanced NLP & RAG
+  - Reinforcement Learning
+  - Probabilistic Machine Learning
+  - Data Science & Machine Learning
+  - Deep Learning 
+  - AI-powered automation & intelligent systems  
+  - Clean, production-ready ML pipelines  
 
 ---
 
-## 💼 Experience
+## 🛠️ Technical Skills  
 
-### **Computer Vision Intern**  
-*ITI Scholarship for student | Mansoura, Egypt*  
-(July 2023 - August 2023)  
-- Learned and implemented core and advanced computer vision techniques.  
-- Built practical real-world projects using state-of-the-art tools.  
-
-### **Data Science Intern**  
-*YLE (Data Camp) | Remote*  
-(December 2023 - June 2024)  
-- Worked on time series analysis and AI project tools.  
-- Mastered TensorFlow, PyTorch, and Spark.  
-
-### **Machine Learning Intern**  
-*Mentorness | Remote*  
-(May 2024 - June 2024)  
-- Built predictive models for blood disease detection and stock market trends.  
+- **Programming & Data**: Python, SQL, C++, NoSQL, Data Structure, OOP  
+- **ML/DL Frameworks**: TensorFlow, PyTorch, scikit-learn, Hugging Face  
+- **Generative AI & Agents**: LangChain, LangGraph, LangSmith, CrewAI, LLM APIs, Agentic AI, n8n, AutoGen, Open AI SDK, Model Context Protocol(MCP)  
+- **LLMs & Prompt Engineering**
+- **Natural Language processing**
+- **Computer Vision**
+- **Deep Learning**
+- **Reinforcement Learning**
+- **Data Science**
+- **Time Series Analysis and Forecasting**
+- **Mathematics & Foundations for AI**
+- **MLOps & Tools**: Docker, Kubernetes, Spark, Git  
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Highlight Projects  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedsalama677&show_icons=true&theme=radical" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedsalama677&theme=radical" alt="Streak Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedsalama677&layout=compact&theme=radical" alt="Top Languages" height="180em" />
-</div>
+- **Smart Recruiter Assistant**  
+  *RAG-powered AI automation tool with LangChain, LangGraph, and agentic AI.*  
+  Designed to **screen CVs, match jobs, and generate interview questions** with explainable reasoning.  
+  🔗 [View Project](https://github.com/mohamedsalama677/Smart-Recruiter-Assistant-A-RAG-based-CV-Query-and-Job-Matching-System)  
+
+- **Arabic Video Summarization with Visual Extraction**  
+  Built an **Agentic AI system** using **LangGraph for summarization** and **LangChain for RAG**, enabling **speech-to-text, query-based video search, and smart summarization**.
+  🔗 [GitHub](https://github.com/Video-Summerization-Project)
+
+- **Clean Code Rewriter**  
+  AI automation tool built with **CrewAI + LangChain**, capable of refactoring Python code and providing **interactive lessons** to help developers improve **clean coding practices**.
+🔗 [View Project](https://github.com/mohamedsalama677/Clean_code_rewriter)
+
+- **POS Tagging – Arabic Dataset (Fine-Tuning)**  
+  Fine-tuned **Arabic BERT models** using Hugging Face Transformers to perform POS tagging on Arabic text, demonstrating precise sequence labeling capabilities.  
+ 🔗 [View Project](https://github.com/mohamedsalama677/POS-Tagging-Using-Hugging-Face-Transformers-with-Arabic-Dataset)
+   
 
 
+---
 
 
